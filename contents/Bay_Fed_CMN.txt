@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bay Fed CMN Companies</title>
+    <link>https://everybitmatters.com</link>
+    <description>List of Bay Fed CMN Companies</description>
+    <language>en-us</language>
+    <pubDate>Tue, 24 Feb 2026 19:31:23 GMT</pubDate>
+
+  <item>
+    <title>Test Approved Company 2</title>
+    <guid>c225324719c91228141</guid>
+    <description>Test Approved Company 2</description>
+    <pubDate>Tue, 24 Feb 2026 19:31:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Test Approved Company 1</title>
+    <guid>cf323de919c91228141</guid>
+    <description>Test Approved Company 1</description>
+    <pubDate>Tue, 24 Feb 2026 19:31:23 GMT</pubDate>
+  </item>
+  </channel>
+</rss>
