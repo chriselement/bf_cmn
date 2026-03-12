@@ -5,19 +5,31 @@
     <link>https://everybitmatters.com</link>
     <description>List of Bay Fed CMN Companies</description>
     <language>en-us</language>
-    <pubDate>Tue, 24 Feb 2026 19:31:23 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 13:57:10 GMT</pubDate>
 
   <item>
-    <title>Test Approved Company 2</title>
-    <guid>c225324719c91228141</guid>
-    <description>Test Approved Company 2</description>
-    <pubDate>Tue, 24 Feb 2026 19:31:23 GMT</pubDate>
+    <title>Test Company 3</title>
+    <guid>504d6c2519ce25645e3</guid>
+    <description>Test Company 3</description>
+    <pubDate>Thu, 12 Mar 2026 13:57:10 GMT</pubDate>
   </item>
   <item>
-    <title>Test Approved Company 1</title>
-    <guid>cf323de919c91228141</guid>
-    <description>Test Approved Company 1</description>
-    <pubDate>Tue, 24 Feb 2026 19:31:23 GMT</pubDate>
+    <title>Test Company</title>
+    <guid>677f0e1919ce25645e3</guid>
+    <description>Test Company</description>
+    <pubDate>Thu, 12 Mar 2026 13:57:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Element</title>
+    <guid>c5575fe419ce25645e3</guid>
+    <description>Element</description>
+    <pubDate>Thu, 12 Mar 2026 13:57:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Bay Fed</title>
+    <guid>7eee93b919ce25645e3</guid>
+    <description>Bay Fed</description>
+    <pubDate>Thu, 12 Mar 2026 13:57:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
