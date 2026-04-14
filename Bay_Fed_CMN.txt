@@ -5,37 +5,31 @@
     <link>https://everybitmatters.com</link>
     <description>List of Bay Fed CMN Companies</description>
     <language>en-us</language>
-    <pubDate>Fri, 20 Mar 2026 15:16:23 GMT</pubDate>
+    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
 
   <item>
     <title>Test Company 3</title>
-    <guid>44eeb9a919d0bd1ac78</guid>
+    <guid>3c174f2519d8cbaa284</guid>
     <description>Test Company 3</description>
-    <pubDate>Fri, 20 Mar 2026 15:16:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Bay Fed</title>
-    <guid>6b383baf19d0bd1ac78</guid>
-    <description>Bay Fed</description>
-    <pubDate>Fri, 20 Mar 2026 15:16:23 GMT</pubDate>
+    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
   </item>
   <item>
     <title>Test Company</title>
-    <guid>fc4bc5a719d0bd1ac78</guid>
+    <guid>2e63c57c19d8cbaa284</guid>
     <description>Test Company</description>
-    <pubDate>Fri, 20 Mar 2026 15:16:23 GMT</pubDate>
+    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
   </item>
   <item>
     <title>Element</title>
-    <guid>d9147e9c19d0bd1ac78</guid>
+    <guid>9bfcd31319d8cbaa284</guid>
     <description>Element</description>
-    <pubDate>Fri, 20 Mar 2026 15:16:23 GMT</pubDate>
+    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
   </item>
   <item>
     <title>Bay Fed</title>
-    <guid>f05755aa19d0bd1ac78</guid>
+    <guid>9cfb005219d8cbaa284</guid>
     <description>Bay Fed</description>
-    <pubDate>Fri, 20 Mar 2026 15:16:23 GMT</pubDate>
+    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
