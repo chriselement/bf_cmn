@@ -5,31 +5,39 @@
     <link>https://everybitmatters.com</link>
     <description>List of Bay Fed CMN Companies</description>
     <language>en-us</language>
-    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:15:03 GMT</pubDate>
 
   <item>
-    <title>Test Company 3</title>
-    <guid>3c174f2519d8cbaa284</guid>
-    <description>Test Company 3</description>
-    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
+    <title>Bay Fed - Marina</title>
+    <guid>7718a66219dd47188e4</guid>
+    <description>Bay Fed - Marina</description>
+    <company>Bay Fed</company>
+    <branchLocations>Marina</branchLocations>
+    <pubDate>Tue, 28 Apr 2026 14:15:03 GMT</pubDate>
   </item>
   <item>
-    <title>Test Company</title>
-    <guid>2e63c57c19d8cbaa284</guid>
-    <description>Test Company</description>
-    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
+    <title>Element - Aptos, Capitola, Freedom</title>
+    <guid>b2e7e38f19dd47188e4</guid>
+    <description>Element - Aptos, Capitola, Freedom</description>
+    <company>Element</company>
+    <branchLocations>Aptos, Capitola, Freedom</branchLocations>
+    <pubDate>Tue, 28 Apr 2026 14:15:03 GMT</pubDate>
   </item>
   <item>
-    <title>Element</title>
-    <guid>9bfcd31319d8cbaa284</guid>
-    <description>Element</description>
-    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
+    <title>Test Company - Santa Cruz (River Street), Salinas, Scotts Valley</title>
+    <guid>09b2ed9819dd47188e4</guid>
+    <description>Test Company - Santa Cruz (River Street), Salinas, Scotts Valley</description>
+    <company>Test Company</company>
+    <branchLocations>Santa Cruz (River Street), Salinas, Scotts Valley</branchLocations>
+    <pubDate>Tue, 28 Apr 2026 14:15:03 GMT</pubDate>
   </item>
   <item>
-    <title>Bay Fed</title>
-    <guid>9cfb005219d8cbaa284</guid>
-    <description>Bay Fed</description>
-    <pubDate>Tue, 14 Apr 2026 16:02:14 GMT</pubDate>
+    <title>Company - Capitola</title>
+    <guid>c3e0ecf119dd47188e5</guid>
+    <description>Company - Capitola</description>
+    <company>Company</company>
+    <branchLocations>Capitola</branchLocations>
+    <pubDate>Tue, 28 Apr 2026 14:15:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
