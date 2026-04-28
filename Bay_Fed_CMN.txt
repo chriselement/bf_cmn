@@ -5,47 +5,15 @@
     <link>https://everybitmatters.com</link>
     <description>List of Bay Fed CMN Companies</description>
     <language>en-us</language>
-    <pubDate>Tue, 28 Apr 2026 14:33:56 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 16:18:53 GMT</pubDate>
 
   <item>
-    <title>Bay Fed - Marina</title>
-    <guid>5ecd71cf19dd482d32d</guid>
-    <description>Bay Fed - Marina</description>
-    <company>Bay Fed</company>
-    <branchLocations>Marina</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:33:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Element - Aptos, Capitola, Freedom</title>
-    <guid>5308f0d919dd482d32d</guid>
-    <description>Element - Aptos, Capitola, Freedom</description>
-    <company>Element</company>
-    <branchLocations>Aptos, Capitola, Freedom</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:33:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Test Company - Santa Cruz (River Street), Salinas, Scotts Valley</title>
-    <guid>a4fddb5219dd482d32d</guid>
-    <description>Test Company - Santa Cruz (River Street), Salinas, Scotts Valley</description>
-    <company>Test Company</company>
-    <branchLocations>Santa Cruz (River Street), Salinas, Scotts Valley</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:33:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Test Company 3 - Watsonville</title>
-    <guid>4f4d4b7119dd482d32d</guid>
-    <description>Test Company 3 - Watsonville</description>
-    <company>Test Company 3</company>
-    <branchLocations>Watsonville</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:33:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Company - Capitola</title>
-    <guid>712f313519dd482d32d</guid>
-    <description>Company - Capitola</description>
-    <company>Company</company>
-    <branchLocations>Capitola</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:33:56 GMT</pubDate>
+    <title>Will your business be the first to donate? - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</title>
+    <guid>9ac2516219dd4e2e70f</guid>
+    <description>Will your business be the first to donate? - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</description>
+    <company>Will your business be the first to donate?</company>
+    <branchLocations>Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</branchLocations>
+    <pubDate>Tue, 28 Apr 2026 16:18:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
