@@ -5,47 +5,47 @@
     <link>https://everybitmatters.com</link>
     <description>List of Bay Fed CMN Companies</description>
     <language>en-us</language>
-    <pubDate>Tue, 28 Apr 2026 14:31:39 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:31:45 GMT</pubDate>
 
   <item>
     <title>Bay Fed - Marina</title>
-    <guid>eb6192f519dd480bc17</guid>
+    <guid>7602bc7e19dd480d2cf</guid>
     <description>Bay Fed - Marina</description>
     <company>Bay Fed</company>
     <branchLocations>Marina</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:31:39 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:31:45 GMT</pubDate>
   </item>
   <item>
     <title>Element - Aptos, Capitola, Freedom</title>
-    <guid>e906782c19dd480bc17</guid>
+    <guid>cf42e22319dd480d2cf</guid>
     <description>Element - Aptos, Capitola, Freedom</description>
     <company>Element</company>
     <branchLocations>Aptos, Capitola, Freedom</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:31:39 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:31:45 GMT</pubDate>
   </item>
   <item>
     <title>Test Company - Santa Cruz (River Street), Salinas, Scotts Valley</title>
-    <guid>bfe4537b19dd480bc17</guid>
+    <guid>7e7f798e19dd480d2cf</guid>
     <description>Test Company - Santa Cruz (River Street), Salinas, Scotts Valley</description>
     <company>Test Company</company>
     <branchLocations>Santa Cruz (River Street), Salinas, Scotts Valley</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:31:39 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:31:45 GMT</pubDate>
   </item>
   <item>
     <title>Test Company 3 - Watsonville</title>
-    <guid>d86c491d19dd480bc17</guid>
+    <guid>752ea58819dd480d2cf</guid>
     <description>Test Company 3 - Watsonville</description>
     <company>Test Company 3</company>
     <branchLocations>Watsonville</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:31:39 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:31:45 GMT</pubDate>
   </item>
   <item>
     <title>Company - Capitola</title>
-    <guid>612f740d19dd480bc17</guid>
+    <guid>07d63c1919dd480d2cf</guid>
     <description>Company - Capitola</description>
     <company>Company</company>
     <branchLocations>Capitola</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 14:31:39 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 14:31:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
