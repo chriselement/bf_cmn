@@ -5,15 +5,47 @@
     <link>https://everybitmatters.com</link>
     <description>List of Bay Fed CMN Companies</description>
     <language>en-us</language>
-    <pubDate>Tue, 28 Apr 2026 16:18:53 GMT</pubDate>
+    <pubDate>Mon, 04 May 2026 16:36:01 GMT</pubDate>
 
   <item>
-    <title>Will your business be the first to donate? - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</title>
-    <guid>9ac2516219dd4e2e70f</guid>
-    <description>Will your business be the first to donate? - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</description>
-    <company>Will your business be the first to donate?</company>
+    <title>Cypress Coast Automotive Group - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</title>
+    <guid>00e6d93c19df3d8bf05</guid>
+    <description>Cypress Coast Automotive Group - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</description>
+    <company>Cypress Coast Automotive Group</company>
     <branchLocations>Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</branchLocations>
-    <pubDate>Tue, 28 Apr 2026 16:18:53 GMT</pubDate>
+    <pubDate>Mon, 04 May 2026 16:36:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mike's Auto Sales - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley</title>
+    <guid>62fd4dbc19df3d8bf05</guid>
+    <description>Mike's Auto Sales - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley</description>
+    <company>Mike's Auto Sales</company>
+    <branchLocations>Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley</branchLocations>
+    <pubDate>Mon, 04 May 2026 16:36:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Toyota of Salinas - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</title>
+    <guid>e15b1f0619df3d8bf05</guid>
+    <description>Toyota of Salinas - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</description>
+    <company>Toyota of Salinas</company>
+    <branchLocations>Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</branchLocations>
+    <pubDate>Mon, 04 May 2026 16:36:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Victory Toyota of Seaside &amp; Lexus of Monterey Peninsula - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</title>
+    <guid>457e778d19df3d8bf05</guid>
+    <description>Victory Toyota of Seaside &amp; Lexus of Monterey Peninsula - Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</description>
+    <company>Victory Toyota of Seaside &amp; Lexus of Monterey Peninsula</company>
+    <branchLocations>Aptos, Capitola, Freedom, Marina, Salinas, Santa Cruz (River Street), Scotts Valley, Watsonville</branchLocations>
+    <pubDate>Mon, 04 May 2026 16:36:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Tile Lady - Aptos</title>
+    <guid>a17e080a19df3d8bf05</guid>
+    <description>The Tile Lady - Aptos</description>
+    <company>The Tile Lady</company>
+    <branchLocations>Aptos</branchLocations>
+    <pubDate>Mon, 04 May 2026 16:36:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
