@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Client Name Open Positions</title>
+    <link>https://secure7.saashr.com/ta/CLIENT.careers</link>
+    <description>Current employment opportunities</description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Jul 2026 16:37:49 GMT</lastBuildDate>
+    <jobCount>6</jobCount>
+
+    <item>
+      <guid isPermaLink="false">604492637</guid>
+      <title>Member Service Representative (FLEX)</title>
+      <link>https://secure7.saashr.com/ta/CLIENT.careers?ApplyToJob=604492637</link>
+      <description><![CDATA[About the Role: The Member Service Representative will proactively work with members to process their financial transactions, provide accurate information and appropriately communicate product and service benefits and features to cross-sell. Perform a v...]]></description>
+      <location>Watsonville, CA</location>
+      <address>1481 Main Street</address>
+      <employmentType>FT Non-Exempt</employmentType>
+      <remote>false</remote>
+      <payMinimum>22</payMinimum>
+      <payMaximum></payMaximum>
+      <payFrequency>HOUR</payFrequency>
+    </item>
+    <item>
+      <guid isPermaLink="false">604492636</guid>
+      <title>Member Service Representative (PT)</title>
+      <link>https://secure7.saashr.com/ta/CLIENT.careers?ApplyToJob=604492636</link>
+      <description><![CDATA[About the Role: The Member Service Representative will proactively work with members to process their financial transactions, provide accurate information and appropriately communicate product and service benefits and features to cross-sell. Perform a v...]]></description>
+      <location>Freedom, CA</location>
+      <address>2028 Freedom Boulevard</address>
+      <employmentType>PT Non-Exempt</employmentType>
+      <remote>false</remote>
+      <payMinimum>22</payMinimum>
+      <payMaximum></payMaximum>
+      <payFrequency>HOUR</payFrequency>
+    </item>
+    <item>
+      <guid isPermaLink="false">604483283</guid>
+      <title>Member Service Representative (FLEX)</title>
+      <link>https://secure7.saashr.com/ta/CLIENT.careers?ApplyToJob=604483283</link>
+      <description><![CDATA[About the Role: The Member Service Representative will proactively work with members to process their financial transactions, provide accurate information and appropriately communicate product and service benefits and features to cross-sell. Perform a v...]]></description>
+      <location>Capitola, CA</location>
+      <address>3333 Clares Street</address>
+      <employmentType>FT Non-Exempt</employmentType>
+      <remote>false</remote>
+      <payMinimum>22</payMinimum>
+      <payMaximum></payMaximum>
+      <payFrequency>HOUR</payFrequency>
+    </item>
+    <item>
+      <guid isPermaLink="false">604462600</guid>
+      <title>Deposit Operations Specialist I</title>
+      <link>https://secure7.saashr.com/ta/CLIENT.careers?ApplyToJob=604462600</link>
+      <description><![CDATA[About the Role: The Deposit Operations Specialist I performs functions to support the servicing and maintenance of deposit accounts in compliance with regulations and professional standards. They perform data entry, share draft processing, resolve depos...]]></description>
+      <location>Capitola, CA</location>
+      <address>3333 Clares Street</address>
+      <employmentType>FT Non-Exempt</employmentType>
+      <remote>false</remote>
+      <payMinimum>22</payMinimum>
+      <payMaximum>26.04</payMaximum>
+      <payFrequency>HOUR</payFrequency>
+    </item>
+    <item>
+      <guid isPermaLink="false">604446979</guid>
+      <title>CRM &amp; AI Automation Administrator</title>
+      <link>https://secure7.saashr.com/ta/CLIENT.careers?ApplyToJob=604446979</link>
+      <description><![CDATA[About the Role: The Product Analyst, MRM & AI Automation plays a role in advancing the credit union’s digital member experience through the strategic use of Member Relationship Management (MRM) and AI-driven automation. This role works closely with busi...]]></description>
+      <location>Remote - United States</location>
+      <address>3333 Clares Street</address>
+      <employmentType>FT Exempt</employmentType>
+      <remote>true</remote>
+      <payMinimum>89010</payMinimum>
+      <payMaximum>111262</payMaximum>
+      <payFrequency>YEAR</payFrequency>
+    </item>
+    <item>
+      <guid isPermaLink="false">587697177</guid>
+      <title>Facilities Manager</title>
+      <link>https://secure7.saashr.com/ta/CLIENT.careers?ApplyToJob=587697177</link>
+      <description><![CDATA[About the Role: Manages facilities maintenance, preventative maintenance, and custodial activities for all Bay Federal Credit Union locations. Maintains the facilities and grounds so that they project a positive image of the credit union and operate as ...]]></description>
+      <location>Capitola, CA</location>
+      <address>3333 Clares Street</address>
+      <employmentType>FT Exempt</employmentType>
+      <remote>false</remote>
+      <payMinimum></payMinimum>
+      <payMaximum></payMaximum>
+      <payFrequency>YEAR</payFrequency>
+    </item>
+  </channel>
+</rss>
