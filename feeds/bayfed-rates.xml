@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bayFedRates retrievedAt="2026-09-18T09:00:08.253Z">
+<bayFedRates retrievedAt="2026-09-19T09:00:08.580Z">
   <rateGroups count="25">
     <rateGroup index="0">
       <title>Autos</title>
@@ -757,7 +757,7 @@
     </rateGroup>
     <rateGroup index="24">
       <title>VISA Credit Card Interest Rates and Interest Charges</title>
-      <ratesEffective>12/12/2025</ratesEffective>
+      <ratesEffective>09/18/2026</ratesEffective>
       <columns>
         <column index="0"></column>
         <column index="1">Margin</column>
@@ -769,44 +769,44 @@
         <row index="0">
           <value index="0">Secured Classic</value>
           <value index="1">12.99%</value>
-          <value index="2">6.75%</value>
+          <value index="2">7.00%</value>
           <value index="3">18.00%</value>
           <value index="4">0.04932%</value>
         </row>
         <row index="1">
           <value index="0">Classic</value>
           <value index="1">12.99%</value>
-          <value index="2">6.75%</value>
+          <value index="2">7.00%</value>
           <value index="3">18.00%</value>
           <value index="4">0.04932%</value>
         </row>
         <row index="2">
           <value index="0">Coastal Cash</value>
           <value index="1">8.74%</value>
-          <value index="2">6.75%</value>
-          <value index="3">15.49%</value>
-          <value index="4">0.04244%</value>
+          <value index="2">7.00%</value>
+          <value index="3">15.74%</value>
+          <value index="4">0.04312%</value>
         </row>
         <row index="3">
           <value index="0">Pacific Points</value>
           <value index="1">8.74%</value>
-          <value index="2">6.75%</value>
-          <value index="3">15.49%</value>
-          <value index="4">0.04244%</value>
+          <value index="2">7.00%</value>
+          <value index="3">15.74%</value>
+          <value index="4">0.04312%</value>
         </row>
         <row index="4">
           <value index="0">Bay Cash</value>
           <value index="1">10.99%</value>
-          <value index="2">6.75%</value>
-          <value index="3">17.74%</value>
-          <value index="4">0.04860%</value>
+          <value index="2">7.00%</value>
+          <value index="3">17.99%</value>
+          <value index="4">0.04929%</value>
         </row>
         <row index="5">
           <value index="0">Business</value>
           <value index="1">6.99%</value>
-          <value index="2">6.75%</value>
-          <value index="3">13.74%</value>
-          <value index="4">0.03764%</value>
+          <value index="2">7.00%</value>
+          <value index="3">13.99%</value>
+          <value index="4">0.03833%</value>
         </row>
       </rows>
       <disclosure symbol="†††">&lt;b&gt;Balance Computation Method&lt;/b&gt;: Average daily balance including new purchases.&lt;br/&gt;&lt;b&gt;Billing Rights&lt;/b&gt;: Information on your rights to dispute transactions and how to exercise those rights is provided in your account agreement.</disclosure>
